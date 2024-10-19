@@ -1,0 +1,3 @@
+/cygdrive/d/cplus/chap-5/cmake-build-debug/CMakeFiles/chap_5.dir
+/cygdrive/d/cplus/chap-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/cplus/chap-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
